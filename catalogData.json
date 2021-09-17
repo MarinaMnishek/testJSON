@@ -3,96 +3,112 @@
     "id_product": 111,
     "product_name": "Валенсия Beige",
     "category": "Барные стулья",
-    "price": "2 300"
+    "price": "2 300",
+    "img": "img/good-1.jpg"
   },
   {
     "id_product": 112,
     "product_name": "Толикс-2 White Gloss",
     "category": "Барные стулья",
-    "price": "4 690"
+    "price": "4 690",
+    "img": "img/good-2.jpg"
   },
   {
     "id_product": 113,
     "product_name": "Динс Velvet Yellow",
     "category": "Диваны",
-    "price": "28 490"
+    "price": "28 490",
+    "img": "img/good-3.jpg"
   },
   {
     "id_product": 114,
     "product_name": "Кускен Navy Blue",
     "category": "Диваны",
-    "price": "21 300"
+    "price": "21 300",
+    "img": "img/good-4.jpg"
   },
   {
     "id_product": 115,
     "product_name": "Шерона Barhat Grey",
     "category": "Двухспальные кровати",
-    "price": "21 990"
+    "price": "21 990",
+    "img": "img/good-5.jpg"
   },
   {
     "id_product": 116,
     "product_name": "Авиньон-1",
     "category": "Буфеты",
-    "price": "18 990"
+    "price": "18 990",
+    "img": "img/good-6.jpg"
   },
   {
     "id_product": 117,
     "product_name": "Стелла Дуб Сонома",
     "category": "Комоды",
-    "price": "8 990"
+    "price": "8 990",
+    "img": "img/good-7.jpg"
   },
   {
     "id_product": 118,
     "product_name": "Равенна-1 Light",
     "category": "Комоды",
-    "price": "14 990"
+    "price": "14 990",
+    "img": "img/good-8.jpg"
   },
   {
     "id_product": 119,
     "product_name": "Бенфлит Grey",
     "category": "Журнальные столы",
-    "price": "7 290"
+    "price": "7 290",
+    "img": "img/good-9.jpg"
   },
   {
     "id_product": 120,
     "product_name": "Тиффани Вудлайн Крем",
     "category": "Письменные столы",
-    "price": "10 990"
+    "price": "10 990",
+    "img": "img/good-10.jpg"
   },
   {
     "id_product": 121,
     "product_name": "Валенсия Beige",
     "category": "Шкафы",
-    "price": "19 990"
+    "price": "19 990",
+    "img": "img/good-11.jpg"
   },
   {
     "id_product": 122,
     "product_name": "Лайт-3-170-240 Белый",
     "category": "Шкафы",
-    "price": "27 290"
+    "price": "27 290",
+    "img": "img/good-12.jpg"
   },
   {
     "id_product": 123,
     "product_name": "Вилли Pink",
     "category": "Детский диван",
-    "price": "21 990"
+    "price": "21 990",
+    "img": "img/good-13.jpg"
   },
   {
     "id_product": 124,
     "product_name": "Сан-Паулу Velvet Brown",
     "category": "Диваны",
-   "price": "25 990"
+   "price": "25 990",
+    "img": "img/good-14.jpg"
   },
   {
     "id_product": 125,
     "product_name": "Валенсия Beige",
     "category": "Стеллажи",
-    "price": "10 990"
+    "price": "10 990",
+    "img": "img/good-15.jpg"
   },
   {
     "id_product": 126,
     "product_name": "Валенсия Beige",
     "category": "Стеллажи",
-    "price": "19 990"
+    "price": "19 990",
+    "img": "img/good-16.jpg"
   }
 ]
