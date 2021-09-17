@@ -3,21 +3,21 @@
     "id_product": 111,
     "product_name": "Валенсия Beige",
     "category": "Барные стулья",
-    "price": "2 300",
+    "price": "2300",
     "img": "img/good-1.jpg"
   },
   {
     "id_product": 112,
     "product_name": "Толикс-2 White Gloss",
     "category": "Барные стулья",
-    "price": "4 690",
+    "price": "4690",
     "img": "img/good-2.jpg"
   },
   {
     "id_product": 113,
     "product_name": "Динс Velvet Yellow",
     "category": "Диваны",
-    "price": "28 490",
+    "price": "28490",
     "img": "img/good-3.jpg"
   },
   {
